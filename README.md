@@ -296,14 +296,4 @@ The platform introduces a **digital traceability network for agricultural produc
 
 ---
 
-# 👨‍💻 Author
 
-**Jathin VJ**
-
-Automation Testing | Full Stack Development | Java | Spring Boot | React
-
----
-
-# 📜 License
-
-This project was developed for **educational and internship purposes** as part of the **Infosys Springboard Internship 6.0 Program**.
